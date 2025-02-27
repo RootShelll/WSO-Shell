@@ -3,6 +3,9 @@
 
 WSO Webshell is a PHP-based webshell tool used for managing web servers remotely. It provides file management, command execution, and other advanced features. This guide explains its installation, usage, and best practices.
 
+### WSO WebShell Panel
+![WSO WebShell Panel](https://r00t-shell.com/wp-content/uploads/2025/02/WSO-Shell-Panel.png)
+
 ## Default Panel Password
 
 **Default Panel Password:** `R00t`
