@@ -51,3 +51,6 @@ After accessing the webshell, you can:
 
 ### Logout Page
 ![WSO WebShell BYE](https://r00t-shell.com/wp-content/uploads/2025/02/WSO-Shell-BYE.png)
+```
+
+This format ensures all images, passwords, and code blocks are easily copyable, making it suitable for GitHub's markdown rendering.
