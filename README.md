@@ -6,6 +6,9 @@ WSO Webshell is a PHP-based webshell tool used for managing web servers remotely
 ## Default Panel Password
 
 **Default Panel Password:** `R00t`
+```bash
+R00t
+```
 
 ## What is WSO Webshell?
 
@@ -52,5 +55,3 @@ After accessing the webshell, you can:
 ### Logout Page
 ![WSO WebShell BYE](https://r00t-shell.com/wp-content/uploads/2025/02/WSO-Shell-BYE.png)
 ```
-
-This format ensures all images, passwords, and code blocks are easily copyable, making it suitable for GitHub's markdown rendering.
