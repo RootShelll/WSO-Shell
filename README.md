@@ -1,4 +1,4 @@
-```markdown
+
 # WSO Webshell: Comprehensive Guide
 
 WSO Webshell is a PHP-based tool for remotely managing web servers. It provides file management, command execution, and other advanced features. This guide explains its installation, usage, and best practices.
